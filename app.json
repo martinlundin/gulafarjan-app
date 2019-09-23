@@ -25,7 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "buildNumber": "1"
+      "buildNumber": "1",
+      "bundleIdentifier": "com.martinlundin.gulafarjan"
     },
     "android": {
       "package": "com.martinlundin.gulafarjan",
