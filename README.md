@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://www.gulafarjan.se/favicon.png" width="150">
 </p>
@@ -11,7 +10,7 @@
 
 ---
 
-## :shipit: Information
+## :speech_balloon: Information
 Det här är en wrap för att göra Gulafärjans webbapp tillänglig som traditionella appar. Vi använder WebView som gör det enkelt att få den tillänglig i Appstore och Playstore.
 
 Gulafärjans webbapp finns här: https://github.com/martinlundin/gulafarjan
